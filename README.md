@@ -1,6 +1,6 @@
-# Titanic-Dataset
+# Titanic
 
-Titanic - Machine Learning from Disaster.
+Titanic - Machine Learning from Disaster: https://www.kaggle.com/c/titanic
 
 This is a GROUP PROJECT for 'Data Mining and Analytics' academic course taught at the Faculty of Computers and Data Science, Alexandria University.
 
