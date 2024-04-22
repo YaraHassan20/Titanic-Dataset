@@ -4,5 +4,4 @@ Titanic - Machine Learning from Disaster: https://www.kaggle.com/c/titanic
 
 This is a GROUP PROJECT for 'Data Mining and Analytics' academic course taught at the Faculty of Computers and Data Science, Alexandria University.
 
-Analyzed passenger information such as name, age, gender, and socio-economic class, and used different machine learning models to predict passenger survival on the Titanic using Data Mining techniques. 
-
+Utilized passenger data, including name, age, gender, and socio-economic class, from the Titanic dataset to conduct analysis. Employed Data Mining techniques to train a machine learning model capable of predicting passenger survival outcomes on the Titanic based on the aforementioned attributes.
